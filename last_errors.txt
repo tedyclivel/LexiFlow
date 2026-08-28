@@ -1,0 +1,40 @@
+﻿Analyzing 3 items...                                            
+
+   info - Don't use 'BuildContext's across async gaps - lib\screens\game_screen.dart:53:34 - use_build_context_synchronously
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\game_screen.dart:79:37 - deprecated_member_use
+  error - Expected to find ';' - lib\screens\game_screen.dart:147:3 - expected_token
+warning - Dead code - lib\screens\game_screen.dart:147:4 - dead_code
+  error - Expected an identifier - lib\screens\game_screen.dart:147:4 - missing_identifier
+  error - Expected to find ';' - lib\screens\game_screen.dart:147:4 - expected_token
+  error - Unexpected text ';' - lib\screens\game_screen.dart:147:4 - unexpected_token
+  error - Expected an identifier - lib\screens\game_screen.dart:148:1 - missing_identifier
+  error - Unexpected text ';' - lib\screens\game_screen.dart:148:1 - unexpected_token
+   info - Unnecessary empty statement - lib\screens\game_screen.dart:148:2 - empty_statements
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\home_screen.dart:45:49 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\home_screen.dart:71:49 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\home_screen.dart:111:29 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\home_screen.dart:113:48 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\home_screen.dart:167:49 - deprecated_member_use
+
+flutter : 15 issues 
+found. (ran in 11.5s)
+Au caractère Ligne:1 
+: 1
++ flutter analyze 
+--no-fatal-infos 
+lib/main.dart lib/scre
+ens/home_scree ...
++ ~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~
+~~~~~
+    + CategoryInfo    
+          : NotSpeci  
+  fied: (15 issues    
+ found. (ran in 11    
+.5s):String) [],     
+RemoteException
+    + FullyQualifiedE 
+   rrorId : NativeCo  
+  mmandError
+ 
