@@ -9,9 +9,19 @@
 
 LexiFlow transforme la recherche de mots en une expérience de jeu complète : exploration de mondes, grilles évolutives, défis quotidiens, progression, récompenses, classements et affrontements entre joueurs.
 
+## Aperçu
+
+<p align="center">
+  <img src="assets/images/lexi1.png" alt="Écran LexiFlow 1" width="24%">
+  <img src="assets/images/lexi2.png" alt="Écran LexiFlow 2" width="24%">
+  <img src="assets/images/lexi3.png" alt="Écran LexiFlow 3" width="24%">
+  <img src="assets/images/lexi4.png" alt="Écran LexiFlow 4" width="24%">
+</p>
+
 ## Sommaire
 
 - [Fonctionnalités](#fonctionnalités)
+- [Aperçu](#aperçu)
 - [Architecture](#architecture)
 - [Prérequis](#prérequis)
 - [Installation](#installation)
